@@ -1,3 +1,4 @@
+# COLLEGE FINAL YEAR PROJECT 1
 # MealMagicianAI
 
 To run this Flask app on your local server, follow the steps below:
